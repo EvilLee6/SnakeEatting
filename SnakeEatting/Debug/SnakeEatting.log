@@ -1,2 +1,8 @@
-﻿  SnakeEatting.cpp
-  SnakeEatting.vcxproj -> C:\Users\GERAINT\source\repos\SnakeEatting\Debug\SnakeEatting.exe
+﻿  CSnake.cpp
+  CUnit.cpp
+  Food.cpp
+  Map.cpp
+C:\Users\GERAINT\Documents\SnakeEatting\SnakeEatting\Map.cpp(96,7): warning C4101: “k”: 未引用的局部变量
+  SnakeEatting.cpp
+  正在生成代码...
+  SnakeEatting.vcxproj -> C:\Users\GERAINT\Documents\SnakeEatting\Debug\SnakeEatting.exe
